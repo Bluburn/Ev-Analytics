@@ -1,0 +1,94 @@
+[
+    {
+    "uuid_1": {
+        "ev_station_party_info": {
+            "Party_Name": "ALTEMVIM"
+        },
+        "count": 100
+    },
+    "uuid_2": {
+        "ev_station_party_info": {
+            "Party_Name": "PEA"
+        },
+        "count": 339
+    },
+    "uuid_3": {
+        "ev_station_party_info": {
+            "Party_Name": "SHARGE"
+        },
+        "count": 412
+    },
+    "uuid_4": {
+        "ev_station_party_info": {
+            "Party_Name": "GWM"
+        },
+        "count": 24
+    },
+    "uuid_5": {
+        "ev_station_party_info": {
+            "Party_Name": "Espro"
+        },
+        "count": 80
+    },
+    "uuid_6": {
+        "ev_station_party_info": {
+            "Party_Name": "OR"
+        },
+        "count": 833
+    },
+    "uuid_7": {
+        "ev_station_party_info": {
+            "Party_Name": "EA_ANYWHERE"
+        },
+        "count": 538
+    },
+    "uuid_8": {
+        "ev_station_party_info": {
+            "Party_Name": "EGAT"
+        },
+        "count": 117
+    },
+    "uuid_9": {
+        "ev_station_party_info": {
+            "Party_Name": "EVOLT"
+        },
+        "count": 241
+    },
+    "uuid_10": {
+        "ev_station_party_info": {
+            "Party_Name": "GALVANIC"
+        },
+        "count": 35
+    },
+    "uuid_11": {
+        "ev_station_party_info": {
+            "Party_Name": "HAUP"
+        },
+        "count": 45
+    },
+    "uuid_12": {
+        "ev_station_party_info": {
+            "Party_Name": "MEA"
+        },
+        "count": 36
+    },
+    "uuid_13": {
+        "ev_station_party_info": {
+            "Party_Name": "ON-ION"
+        },
+        "count": 67
+    },
+    "uuid_14": {
+        "ev_station_party_info": {
+            "Party_Name": "CHOSEN"
+        },
+        "count": 19
+    },
+    "uuid_15": {
+        "ev_station_party_info": {
+        "Party_Name": "PUMPCHARGE"
+    },
+    "count": 6
+}
+}
+]

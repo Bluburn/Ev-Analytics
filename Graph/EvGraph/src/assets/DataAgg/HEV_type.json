@@ -1,0 +1,22 @@
+[
+    {
+        "total_values" : 84476,
+        "ev_car_type" : "CAR"
+    },
+    {
+        "total_values" : 0,
+        "ev_car_type" : "TRUCK"
+    },
+    {
+        "total_values" : 0,
+        "ev_car_type" : "BUS"
+    },
+    {
+        "total_values" : 593,
+        "ev_car_type" : "MOTORCYCLE"
+    },
+    {
+        "total_values" : 0,
+        "ev_car_type" : "TUK TUK"
+    }
+]

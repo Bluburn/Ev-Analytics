@@ -1,0 +1,13 @@
+body {
+    font-family: Arial;
+
+  }
+
+.pie-wrap{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  background-color: white;
+}
+
+

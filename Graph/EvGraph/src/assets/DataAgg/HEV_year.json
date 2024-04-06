@@ -1,0 +1,520 @@
+[    
+    {
+        "_id" : {
+            "month" : 1,
+            "year" : 2018
+        },
+        "total_values" : 1049
+    },
+    {
+        "_id" : {
+            "month" : 2,
+            "year" : 2018
+        },
+        "total_values" : 1271
+    },
+    {
+        "_id" : {
+            "month" : 3,
+            "year" : 2018
+        },
+        "total_values" : 1536
+    },
+    {
+        "_id" : {
+            "month" : 4,
+            "year" : 2018
+        },
+        "total_values" : 1561
+    },
+    {
+        "_id" : {
+            "month" : 5,
+            "year" : 2018
+        },
+        "total_values" : 1896
+    },
+    {
+        "_id" : {
+            "month" : 6,
+            "year" : 2018
+        },
+        "total_values" : 2252
+    },
+    {
+        "_id" : {
+            "month" : 7,
+            "year" : 2018
+        },
+        "total_values" : 2018
+    },
+    {
+        "_id" : {
+            "month" : 8,
+            "year" : 2018
+        },
+        "total_values" : 2104
+    },
+    {
+        "_id" : {
+            "month" : 9,
+            "year" : 2018
+        },
+        "total_values" : 3652
+    },
+    {
+        "_id" : {
+            "month" : 10,
+            "year" : 2018
+        },
+        "total_values" : 1741
+    },
+    {
+        "_id" : {
+            "month" : 11,
+            "year" : 2018
+        },
+        "total_values" : 1732
+    },
+    {
+        "_id" : {
+            "month" : 12,
+            "year" : 2018
+        },
+        "total_values" : 1375
+    },
+    {
+        "_id" : {
+            "month" : 1,
+            "year" : 2019
+        },
+        "total_values" : 2673
+    },
+    {
+        "_id" : {
+            "month" : 2,
+            "year" : 2019
+        },
+        "total_values" : 2582
+    },
+    {
+        "_id" : {
+            "month" : 3,
+            "year" : 2019
+        },
+        "total_values" : 2548
+    },
+    {
+        "_id" : {
+            "month" : 4,
+            "year" : 2019
+        },
+        "total_values" : 2240
+    },
+    {
+        "_id" : {
+            "month" : 5,
+            "year" : 2019
+        },
+        "total_values" : 2662
+    },
+    {
+        "_id" : {
+            "month" : 6,
+            "year" : 2019
+        },
+        "total_values" : 2661
+    },
+    {
+        "_id" : {
+            "month" : 7,
+            "year" : 2019
+        },
+        "total_values" : 2622
+    },
+    {
+        "_id" : {
+            "month" : 8,
+            "year" : 2019
+        },
+        "total_values" : 2915
+    },
+    {
+        "_id" : {
+            "month" : 9,
+            "year" : 2019
+        },
+        "total_values" : 2769
+    },
+    {
+        "_id" : {
+            "month" : 10,
+            "year" : 2019
+        },
+        "total_values" : 2790
+    },
+    {
+        "_id" : {
+            "month" : 11,
+            "year" : 2019
+        },
+        "total_values" : 2542
+    },
+    {
+        "_id" : {
+            "month" : 12,
+            "year" : 2019
+        },
+        "total_values" : 1672
+    },
+    {
+        "_id" : {
+            "month" : 1,
+            "year" : 2020
+        },
+        "total_values" : 3403
+    },
+    {
+        "_id" : {
+            "month" : 2,
+            "year" : 2020
+        },
+        "total_values" : 3084
+    },
+    {
+        "_id" : {
+            "month" : 3,
+            "year" : 2020
+        },
+        "total_values" : 3004
+    },
+    {
+        "_id" : {
+            "month" : 4,
+            "year" : 2020
+        },
+        "total_values" : 1905
+    },
+    {
+        "_id" : {
+            "month" : 5,
+            "year" : 2020
+        },
+        "total_values" : 1545
+    },
+    {
+        "_id" : {
+            "month" : 6,
+            "year" : 2020
+        },
+        "total_values" : 1831
+    },
+    {
+        "_id" : {
+            "month" : 7,
+            "year" : 2020
+        },
+        "total_values" : 2033
+    },
+    {
+        "_id" : {
+            "month" : 8,
+            "year" : 2020
+        },
+        "total_values" : 2984
+    },
+    {
+        "_id" : {
+            "month" : 9,
+            "year" : 2020
+        },
+        "total_values" : 2864
+    },
+    {
+        "_id" : {
+            "month" : 10,
+            "year" : 2020
+        },
+        "total_values" : 3229
+    },
+    {
+        "_id" : {
+            "month" : 11,
+            "year" : 2020
+        },
+        "total_values" : 2980
+    },
+    {
+        "_id" : {
+            "month" : 12,
+            "year" : 2020
+        },
+        "total_values" : 2318
+    },
+    {
+        "_id" : {
+            "month" : 1,
+            "year" : 2021
+        },
+        "total_values" : 4373
+    },
+    {
+        "_id" : {
+            "month" : 2,
+            "year" : 2021
+        },
+        "total_values" : 3949
+    },
+    {
+        "_id" : {
+            "month" : 3,
+            "year" : 2021
+        },
+        "total_values" : 4022
+    },
+    {
+        "_id" : {
+            "month" : 4,
+            "year" : 2021
+        },
+        "total_values" : 2868
+    },
+    {
+        "_id" : {
+            "month" : 5,
+            "year" : 2021
+        },
+        "total_values" : 3196
+    },
+    {
+        "_id" : {
+            "month" : 6,
+            "year" : 2021
+        },
+        "total_values" : 2828
+    },
+    {
+        "_id" : {
+            "month" : 7,
+            "year" : 2021
+        },
+        "total_values" : 1875
+    },
+    {
+        "_id" : {
+            "month" : 8,
+            "year" : 2021
+        },
+        "total_values" : 2885
+    },
+    {
+        "_id" : {
+            "month" : 9,
+            "year" : 2021
+        },
+        "total_values" : 2434
+    },
+    {
+        "_id" : {
+            "month" : 10,
+            "year" : 2021
+        },
+        "total_values" : 2273
+    },
+    {
+        "_id" : {
+            "month" : 11,
+            "year" : 2021
+        },
+        "total_values" : 2796
+    },
+    {
+        "_id" : {
+            "month" : 12,
+            "year" : 2021
+        },
+        "total_values" : 2246
+    },
+    {
+        "_id" : {
+            "month" : 1,
+            "year" : 2022
+        },
+        "total_values" : 4355
+    },
+    {
+        "_id" : {
+            "month" : 2,
+            "year" : 2022
+        },
+        "total_values" : 5363
+    },
+    {
+        "_id" : {
+            "month" : 3,
+            "year" : 2022
+        },
+        "total_values" : 7304
+    },
+    {
+        "_id" : {
+            "month" : 4,
+            "year" : 2022
+        },
+        "total_values" : 4709
+    },
+    {
+        "_id" : {
+            "month" : 5,
+            "year" : 2022
+        },
+        "total_values" : 5362
+    },
+    {
+        "_id" : {
+            "month" : 6,
+            "year" : 2022
+        },
+        "total_values" : 5625
+    },
+    {
+        "_id" : {
+            "month" : 7,
+            "year" : 2022
+        },
+        "total_values" : 4547
+    },
+    {
+        "_id" : {
+            "month" : 8,
+            "year" : 2022
+        },
+        "total_values" : 5828
+    },
+    {
+        "_id" : {
+            "month" : 9,
+            "year" : 2022
+        },
+        "total_values" : 6718
+    },
+    {
+        "_id" : {
+            "month" : 10,
+            "year" : 2022
+        },
+        "total_values" : 5036
+    },
+    {
+        "_id" : {
+            "month" : 11,
+            "year" : 2022
+        },
+        "total_values" : 5090
+    },
+    {
+        "_id" : {
+            "month" : 12,
+            "year" : 2022
+        },
+        "total_values" : 4098
+    },
+    {
+        "_id" : {
+            "month" : 1,
+            "year" : 2023
+        },
+        "total_values" : 7687
+    },
+    {
+        "_id" : {
+            "month" : 2,
+            "year" : 2023
+        },
+        "total_values" : 7921
+    },
+    {
+        "_id" : {
+            "month" : 3,
+            "year" : 2023
+        },
+        "total_values" : 8828
+    },
+    {
+        "_id" : {
+            "month" : 4,
+            "year" : 2023
+        },
+        "total_values" : 6198
+    },
+    {
+        "_id" : {
+            "month" : 5,
+            "year" : 2023
+        },
+        "total_values" : 8013
+    },
+    {
+        "_id" : {
+            "month" : 6,
+            "year" : 2023
+        },
+        "total_values" : 7493
+    },
+    {
+        "_id" : {
+            "month" : 7,
+            "year" : 2023
+        },
+        "total_values" : 5950
+    },
+    {
+        "_id" : {
+            "month" : 8,
+            "year" : 2023
+        },
+        "total_values" : 7106
+    },
+    {
+        "_id" : {
+            "month" : 9,
+            "year" : 2023
+        },
+        "total_values" : 6227
+    },
+    {
+        "_id" : {
+            "month" : 10,
+            "year" : 2023
+        },
+        "total_values" : 6613
+    },
+    {
+        "_id" : {
+            "month" : 11,
+            "year" : 2023
+        },
+        "total_values" : 7524
+    },
+    {
+        "_id" : {
+            "month" : 12,
+            "year" : 2023
+        },
+        "total_values" : 5509
+    },
+    {
+        "_id" : {
+            "month" : 1,
+            "year" : 2024
+        },
+        "total_values" : 14143
+    },
+    {
+        "_id" : {
+            "month" : 2,
+            "year" : 2024
+        },
+        "total_values" : 11991
+    }
+]

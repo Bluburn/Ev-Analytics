@@ -1,0 +1,11 @@
+{
+    "total_values" : 22278,
+    "fuel_type_info" : {
+        "description_en" : "Passenger Car",
+        "description_th" : "Passenger Car",
+        "env_conversion_factor" : 15915,
+        "fuel_en" : "ไฟฟ้า",
+        "fuel_th" : "ไฟฟ้า"
+    }
+}
+

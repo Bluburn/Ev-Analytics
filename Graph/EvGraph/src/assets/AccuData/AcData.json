@@ -1,0 +1,92 @@
+[
+    {
+        "_id": 2019,
+        "name": "BEV",
+        "total_values": 2854
+    },
+    {
+        "_id": 2020,
+        "name": "BEV",
+        "total_values": 5685
+    },
+    {
+        "_id": 2021,
+        "name": "BEV",
+        "total_values": 11382
+    },
+    {
+        "_id": 2022,
+        "name": "BEV",
+        "total_values": 32081
+    },
+    {
+        "_id": 2023,
+        "name": "BEV",
+        "total_values": 131856
+    },
+    {
+        "_id": 2024,
+        "name": "BEV",
+        "total_values": 154027
+    },
+    {
+        "_id": 2019,
+        "name": "HEV",
+        "total_values": 0
+    },
+    {
+        "_id": 2020,
+        "name": "HEV",
+        "total_values": 162081
+    },
+    {
+        "_id": 2021,
+        "name": "HEV",
+        "total_values": 196582
+    },
+    {
+        "_id": 2022,
+        "name": "HEV",
+        "total_values": 259812
+    },
+    {
+        "_id": 2023,
+        "name": "HEV",
+        "total_values": 343604
+    },
+    {
+        "_id": 2024,
+        "name": "HEV",
+        "total_values": 369532
+    },
+    {
+        "_id": 2019,
+        "name": "PHEV",
+        "total_values": 0
+    },
+    {
+        "_id": 2020,
+        "name": "PHEV",
+        "total_values": 24191
+    },
+    {
+        "_id": 2021,
+        "name": "PHEV",
+        "total_values": 31145
+    },
+    {
+        "_id": 2022,
+        "name": "PHEV",
+        "total_values": 42415
+    },
+    {
+        "_id": 2023,
+        "name": "PHEV",
+        "total_values": 53979
+    },
+    {
+        "_id": 2024,
+        "name": "PHEV",
+        "total_values": 55782
+    }
+]

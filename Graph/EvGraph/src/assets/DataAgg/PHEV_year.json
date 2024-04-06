@@ -1,0 +1,338 @@
+[
+    {
+        "_id" : {
+            "month" : 1,
+            "year" : 2020
+        },
+        "total_values" : 0
+    },
+    {
+        "_id" : {
+            "month" : 2,
+            "year" : 2020
+        },
+        "total_values" : 0
+    },
+    {
+        "_id" : {
+            "month" : 3,
+            "year" : 2020
+        },
+        "total_values" : 0
+    },
+    {
+        "_id" : {
+            "month" : 4,
+            "year" : 2020
+        },
+        "total_values" : 0
+    },
+    {
+        "_id" : {
+            "month" : 5,
+            "year" : 2020
+        },
+        "total_values" : 0
+    },
+    {
+        "_id" : {
+            "month" : 6,
+            "year" : 2020
+        },
+        "total_values" : 0
+    },
+    {
+        "_id" : {
+            "month" : 7,
+            "year" : 2020
+        },
+        "total_values" : 7
+    },
+    {
+        "_id" : {
+            "month" : 8,
+            "year" : 2020
+        },
+        "total_values" : 67
+    },
+    {
+        "_id" : {
+            "month" : 9,
+            "year" : 2020
+        },
+        "total_values" : 255
+    },
+    {
+        "_id" : {
+            "month" : 10,
+            "year" : 2020
+        },
+        "total_values" : 276
+    },
+    {
+        "_id" : {
+            "month" : 11,
+            "year" : 2020
+        },
+        "total_values" : 272
+    },
+    {
+        "_id" : {
+            "month" : 12,
+            "year" : 2020
+        },
+        "total_values" : 214
+    },
+    {
+        "_id" : {
+            "month" : 1,
+            "year" : 2021
+        },
+        "total_values" : 464
+    },
+    {
+        "_id" : {
+            "month" : 2,
+            "year" : 2021
+        },
+        "total_values" : 636
+    },
+    {
+        "_id" : {
+            "month" : 5,
+            "year" : 2021
+        },
+        "total_values" : 704
+    },
+    {
+        "_id" : {
+            "month" : 6,
+            "year" : 2021
+        },
+        "total_values" : 680
+    },
+    {
+        "_id" : {
+            "month" : 7,
+            "year" : 2021
+        },
+        "total_values" : 309
+    },
+    {
+        "_id" : {
+            "month" : 8,
+            "year" : 2021
+        },
+        "total_values" : 648
+    },
+    {
+        "_id" : {
+            "month" : 9,
+            "year" : 2021
+        },
+        "total_values" : 603
+    },
+    {
+        "_id" : {
+            "month" : 10,
+            "year" : 2021
+        },
+        "total_values" : 486
+    },
+    {
+        "_id" : {
+            "month" : 11,
+            "year" : 2021
+        },
+        "total_values" : 646
+    },
+    {
+        "_id" : {
+            "month" : 12,
+            "year" : 2021
+        },
+        "total_values" : 553
+    },
+    {
+        "_id" : {
+            "month" : 1,
+            "year" : 2022
+        },
+        "total_values" : 722
+    },
+    {
+        "_id" : {
+            "month" : 2,
+            "year" : 2022
+        },
+        "total_values" : 957
+    },
+    {
+        "_id" : {
+            "month" : 3,
+            "year" : 2022
+        },
+        "total_values" : 1290
+    },
+    {
+        "_id" : {
+            "month" : 4,
+            "year" : 2022
+        },
+        "total_values" : 837
+    },
+    {
+        "_id" : {
+            "month" : 5,
+            "year" : 2022
+        },
+        "total_values" : 1056
+    },
+    {
+        "_id" : {
+            "month" : 6,
+            "year" : 2022
+        },
+        "total_values" : 1085
+    },
+    {
+        "_id" : {
+            "month" : 7,
+            "year" : 2022
+        },
+        "total_values" : 775
+    },
+    {
+        "_id" : {
+            "month" : 8,
+            "year" : 2022
+        },
+        "total_values" : 987
+    },
+    {
+        "_id" : {
+            "month" : 9,
+            "year" : 2022
+        },
+        "total_values" : 1083
+    },
+    {
+        "_id" : {
+            "month" : 10,
+            "year" : 2022
+        },
+        "total_values" : 899
+    },
+    {
+        "_id" : {
+            "month" : 11,
+            "year" : 2022
+        },
+        "total_values" : 961
+    },
+    {
+        "_id" : {
+            "month" : 12,
+            "year" : 2022
+        },
+        "total_values" : 679
+    },
+    {
+        "_id" : {
+            "month" : 1,
+            "year" : 2023
+        },
+        "total_values" : 961
+    },
+    {
+        "_id" : {
+            "month" : 2,
+            "year" : 2023
+        },
+        "total_values" : 1249
+    },
+    {
+        "_id" : {
+            "month" : 3,
+            "year" : 2023
+        },
+        "total_values" : 1178
+    },
+    {
+        "_id" : {
+            "month" : 4,
+            "year" : 2023
+        },
+        "total_values" : 784
+    },
+    {
+        "_id" : {
+            "month" : 5,
+            "year" : 2023
+        },
+        "total_values" : 1025
+    },
+    {
+        "_id" : {
+            "month" : 6,
+            "year" : 2023
+        },
+        "total_values" : 1075
+    },
+    {
+        "_id" : {
+            "month" : 7,
+            "year" : 2023
+        },
+        "total_values" : 977
+    },
+    {
+        "_id" : {
+            "month" : 8,
+            "year" : 2023
+        },
+        "total_values" : 1269
+    },
+    {
+        "_id" : {
+            "month" : 9,
+            "year" : 2023
+        },
+        "total_values" : 1016
+    },
+    {
+        "_id" : {
+            "month" : 10,
+            "year" : 2023
+        },
+        "total_values" : 849
+    },
+    {
+        "_id" : {
+            "month" : 11,
+            "year" : 2023
+        },
+        "total_values" : 785
+    },
+    {
+        "_id" : {
+            "month" : 12,
+            "year" : 2023
+        },
+        "total_values" : 535
+    },
+    {
+        "_id" : {
+            "month" : 1,
+            "year" : 2024
+        },
+        "total_values" : 940
+    },
+    {
+        "_id" : {
+            "month" : 2,
+            "year" : 2024
+        },
+        "total_values" : 894
+    }
+]
